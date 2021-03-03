@@ -453,11 +453,12 @@ nav {
    padding-bottom: 85px;
   
 }
-.workitem{
-    width: 16.47%;
+.workitem {
+width: 16.66%;
 }
-.workitem img{
-    display: block;
+.workitem img {
+display: block;
+width: 100%;
 }
 .workfoot{
     text-align: center;
